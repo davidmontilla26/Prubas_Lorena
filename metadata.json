@@ -1,0 +1,5 @@
+{
+  "name": "Curso Interactivo de Oftalmología",
+  "description": "Una aplicación web interactiva para estudiar oftalmología basada en el contenido del OKAP. Genera resúmenes y cuestionarios de autoevaluación para cada módulo de aprendizaje, permitiendo un estudio dinámico y efectivo.",
+  "requestFramePermissions": []
+}
